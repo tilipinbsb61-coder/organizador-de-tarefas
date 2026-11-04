@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Organizador de Tarefas</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <main class="container">
+    <header>
+      <span class="tag">Projeto acadêmico</span>
+      <h1>Organizador de Tarefas</h1>
+      <p>Organize suas atividades de forma simples e prática.</p>
+    </header>
+
+    <form id="task-form">
+      <label for="task-input">Nova tarefa</label>
+      <div class="input-row">
+        <input id="task-input" type="text" placeholder="Digite uma tarefa..." required>
+        <button type="submit">Adicionar</button>
+      </div>
+    </form>
+
+    <section class="tasks-section">
+      <div class="section-heading">
+        <h2>Minhas tarefas</h2>
+        <span id="task-count">0 tarefas</span>
+      </div>
+      <ul id="task-list"></ul>
+      <p id="empty-message">Nenhuma tarefa cadastrada. Adicione sua primeira atividade!</p>
+    </section>
+
+    <footer>Projeto desenvolvido para a atividade prática de Git e GitHub.</footer>
+  </main>
+  <script src="script.js"></script>
+</body>
+</html>
