@@ -1,70 +1,67 @@
-# Organizador de Tarefas
 
-**Disciplina:** Engenharia de Software  
-**Curso:** Análise e Desenvolvimento de Sistemas (ADS)  
-**Tipo de trabalho:** Projeto acadêmico em grupo
+# 📋 Organizador de Tarefas
 
-## 1. Descrição do projeto
+## 📖 Sobre o Projeto
 
-O Organizador de Tarefas é uma aplicação web desenvolvida como projeto acadêmico. Seu objetivo é ajudar o usuário a registrar e organizar atividades do dia a dia em uma interface simples e intuitiva.
+O Organizador de Tarefas é um sistema web desenvolvido para facilitar o gerenciamento das atividades do dia a dia.
 
-## 2. Objetivo
+O objetivo é permitir que os usuários organizem suas tarefas de maneira simples e prática, acompanhando suas atividades e mantendo uma melhor organização.
 
-Aplicar conceitos de Engenharia de Software por meio da criação de uma aplicação funcional, da documentação do projeto e do uso do Git e GitHub para controle de versão e colaboração.
+## 🎯 Objetivo Geral
 
-## 3. Funcionalidades
+Desenvolver uma aplicação web que permita cadastrar, visualizar, organizar e acompanhar tarefas, contribuindo para uma melhor produtividade e gerenciamento do tempo.
 
-- Adicionar novas tarefas.
-- Marcar tarefas como concluídas.
-- Excluir tarefas.
-- Visualizar a quantidade de tarefas cadastradas.
+## 💻 Tecnologias Utilizadas
 
-## 4. Integrantes
+- HTML5 – Estrutura da aplicação.
+- CSS3 – Estilização e identidade visual.
+- JavaScript – Funcionalidades e interatividade.
 
+<<<<<<< HEAD
 - Breno Freitas de Sousa
 - Everton Henrique Dos Anjos de Lacerda 
 - Felipe Brito Nogueira
 - Matheus Ferreira de Sousa
 - Lucas dos Santos Cruz
+=======
+## ⚙️ Funcionalidades
+>>>>>>> 30f6b774d18d561dcdfff45a422048de398dac7e
 
-## 5. Tecnologias utilizadas
+- Cadastro de tarefas.
+- Visualização das tarefas cadastradas.
+- Organização das atividades.
+- Gerenciamento das tarefas.
+- Interface simples e intuitiva.
 
-- HTML5
-- CSS3
-- JavaScript
-- Git e GitHub
+## 👥 Integrantes do Grupo
 
-## 6. Como executar o projeto
+| Nome | Matrícula | GitHub |
+|---|---|---|
+| Everton Henrique dos Anjos de Lacerda | 20250875931 | [@free-axel7](https://github.com/free-axel7) |
+| Felipe Brito Nogueira | 202508679728 | [@tilipinbsb61](https://github.com/tilipinbsb61) |
+| Breno Freitas de Sousa | 202508375869 | [@breno847](https://github.com/breno847) |
+| Matheus Ferreira de Sousa | 202403735539 | A identificar |
+| Lucas Dos Santos Cruz | 202508342464 | [@lost2606](https://github.com/lost2606) |
+
+## 🛠️ Divisão de Responsabilidades
+
+- Everton: Documentação e organização do projeto.
+- Felipe: Desenvolvimento da estrutura HTML.
+- Breno: Estilização e identidade visual CSS.
+- Matheus: Desenvolvimento das funcionalidades JavaScript.
+- Lucas: Revisão, testes e documentação.
+
+## 🚀 Como Executar o Projeto
 
 1. Faça o download ou clone este repositório.
 2. Abra a pasta do projeto.
-3. Abra o arquivo `index.html` em um navegador (Chrome, Firefox ou Edge).
-4. Não é necessário instalar dependências ou configurar banco de dados.
+3. Localize o arquivo `index.html`.
+4. Abra o arquivo em um navegador de internet.
 
-Para clonar pelo terminal:
+## 🔗 Repositório
 
-```bash
-git clone COLE_AQUI_A_URL_DO_REPOSITORIO
-cd organizador-de-tarefas
-```
+https://github.com/tilipinbsb61-coder/organizador-de-tarefas
 
-Depois, abra o arquivo `index.html` no navegador.
+---
 
-## 7. Estrutura dos arquivos
-
-- `index.html`: estrutura da página.
-- `style.css`: estilos e layout.
-- `script.js`: funcionalidades da aplicação.
-- `README.md`: documentação do projeto.
-
-## 8. Colaboração e controle de versão
-
-O repositório será público para permitir a visualização do projeto. Cada integrante deve registrar pelo menos uma contribuição individual por meio de um commit ou de uma Issue/Pull Request. As contribuições devem representar trabalho efetivamente realizado, como melhorias no código, correções ou atualização da documentação.
-
-## 9. Observação sobre dados pessoais
-
-Os números de matrícula não foram incluídos neste README porque o repositório será público. Caso a instituição exija esses dados, entreguem-nos separadamente pelo ambiente acadêmico ou confirmem com o professor antes de publicá-los.
-
-## 10. Finalidade acadêmica
-
-Projeto desenvolvido para a disciplina de Engenharia de Software, com o objetivo de praticar documentação, organização de arquivos, controle de versão e colaboração utilizando Git e GitHub.
+**Projeto acadêmico – Análise e Desenvolvimento de Sistemas (ADS).**
