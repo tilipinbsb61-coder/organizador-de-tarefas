@@ -21,9 +21,9 @@ Aplicar conceitos de Engenharia de Software por meio da criação de uma aplica�
 
 ## 4. Integrantes
 
-- Everton Henrique dos Anjos de Lacerda
-- Felipe Brito Nogueira
 - Breno Freitas de Sousa
+- Everton Henrique Dos Anjos de Lacerda 
+- Felipe Brito Nogueira
 - Matheus Ferreira de Sousa
 - Lucas dos Santos Cruz
 
