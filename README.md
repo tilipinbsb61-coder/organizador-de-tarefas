@@ -3,6 +3,13 @@
 * **Disciplina:** Engenharia de Software
 * **Curso:** Análise e Desenvolvimento de Sistemas (ADS)
 * **Tipo de trabalho:** Projeto acadêmico em grupo
+* **Integrantes:** Everton Henrique dos Anjos de Lacerda-20250875931
+Felipe Brito Nogueira-202508679728
+Breno Freitas de Sousa-202508375869
+Matheus Ferreira de Sousa-202403735539
+Lucas Dos Santos Cruz-202508342464
+Ronaldo Bispo Dos Santos-202508375729
+
 
 ## 📌 1. Sobre o Projeto
 O **Organizador de Tarefas** é um sistema web desenvolvido como projeto acadêmico para facilitar o gerenciamento das atividades do dia a dia em uma interface simples e intuitiva.
