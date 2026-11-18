@@ -1,4 +1,4 @@
-# 📋 Organizador de Tarefas
+# 📋 Organizador de Tarefas.
 
 * **Disciplina:** Engenharia de Software
 * **Curso:** Análise e Desenvolvimento de Sistemas (ADS)
