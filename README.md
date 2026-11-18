@@ -3,7 +3,7 @@
 * **Disciplina:** Engenharia de Software
 * **Curso:** Análise e Desenvolvimento de Sistemas (ADS)
 * **Tipo de trabalho:** Projeto acadêmico em grupo
-* **Integrantes:** Everton Henrique dos Anjos de Lacerda-20250875931
+* **Integrantes:** Everton Henrique dos Anjos de Lacerda-202508375931
 Felipe Brito Nogueira-202508679728
 Breno Freitas de Sousa-202508375869
 Matheus Ferreira de Sousa-202403735539
